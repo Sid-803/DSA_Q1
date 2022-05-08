@@ -62,7 +62,5 @@ public class Construct {
 	   
 	    // Push the element back
 	    s.push(x);
-	}
-	
-	
+	}	
 }
